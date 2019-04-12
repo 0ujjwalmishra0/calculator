@@ -1,6 +1,6 @@
-# flutter_testing
+# calculator
 
-A new Flutter application.
+A new Calculator application using flutter.
 
 ## Getting Started
 
